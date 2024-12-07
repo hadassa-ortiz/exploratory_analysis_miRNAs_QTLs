@@ -1,0 +1,6 @@
+"source","term_name","term_id","adjusted_p_value","negative_log10_of_adjusted_p_value","term_size","query_size","intersection_size","effective_domain_size","intersections"
+"GO:BP","response to macrophage colony-stimulating factor","GO:0036005","0.015584898355342373","1.8072960258451378","12","10","2","20110","ENSBTAG00000021240,ENSBTAG00000008419"
+"GO:BP","cellular response to macrophage colony-stimulating factor stimulus","GO:0036006","0.015584898355342373","1.8072960258451378","12","10","2","20110","ENSBTAG00000021240,ENSBTAG00000008419"
+"GO:CC","cell junction","GO:0030054","0.03393675629245461","1.4693296703156127","1474","10","5","20877","ENSBTAG00000007186,ENSBTAG00000011922,ENSBTAG00000009578,ENSBTAG00000008419,ENSBTAG00000015182"
+"REAC","Apoptotic cleavage of cellular proteins","REAC:R-BTA-111465","0.0066041883324609646","2.180180550402836","13","5","2","4894","ENSBTAG00000011922,ENSBTAG00000009578"
+"REAC","Apoptotic execution phase","REAC:R-BTA-75153","0.012927875204801497","1.8884728488751565","18","5","2","4894","ENSBTAG00000011922,ENSBTAG00000009578"
